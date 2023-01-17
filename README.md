@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Vinicius+Almeida;Eu+tenho+32+anos+de+Idade;Desenvolvedor+FullStack+;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciusfrnt&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Almeida github stats" /> 
-  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusfrnt&theme=nord&show_icons=true)
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniciusfrnt&bg_color=000000&color=ffffff&line=808080&point=fff700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
@@ -26,7 +27,6 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ### Studying in this moment:
@@ -37,7 +37,7 @@
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniciusfrnt}/count.svg" /></p> 
 <br>
 </div>
 
